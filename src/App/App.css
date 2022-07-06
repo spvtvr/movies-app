@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  background-color: #e5e5e5;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+#root {
+  display: table;
+  width: 1010px;
+  padding: 36px;
+  background-color: #fff;
+  margin: 0 auto;
+}
+
+.ant-alert {
+  margin: 0 auto;
+}
+
+.ant-input {
+  margin-bottom: 32px;
+}
